@@ -1,11 +1,15 @@
 // Crie uma função que receba uma string e retorne a quantidade de vogais presentes.
 package main
 
-import "strings"
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
-
+	fmt.Print(vogais_count("Ola"))
 }
+
 func vogais_count(palavra string) int {
 	vogais := "aeiouAEIOU"
 	count := 0
