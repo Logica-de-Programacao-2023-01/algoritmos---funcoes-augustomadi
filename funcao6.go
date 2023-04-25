@@ -1,12 +1,13 @@
-// Escreva uma função que receba um slice de strings como parâmetro e retorne uma string com todas as strings concatenadas e separadas por vírgulas. Caso o slice esteja vazio, retorne um erro.
+// Escreva uma função que receba um slice de strings como parâmetro e retorne uma string com todas as strings
+// concatenadas e separadas por vírgulas. Caso o slice esteja vazio, retorne um erro.
 package main
 
 import "fmt"
 
 func main() {
-	fmt.Print(palavras([]string{"ola", "como", "vai"}))
+	fmt.Print(junção([]string{"ola", "como", "vai"}))
 }
-func palavras(lista []string) string {
+func junção(lista []string) string {
 	junção := ""
 	for i := 0; i < len(lista); i++ {
 		junção += lista[i] + ","

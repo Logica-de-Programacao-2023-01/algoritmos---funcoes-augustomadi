@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35824be4-761d-4db1-9f59-aa2dfa886ae3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/funcao5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcao6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcao7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcao10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcao11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcao12.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcao8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcao9.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcao2.go" beforeDir="false" afterPath="$PROJECT_DIR$/funcao2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcao6.go" beforeDir="false" afterPath="$PROJECT_DIR$/funcao6.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcao7.go" beforeDir="false" afterPath="$PROJECT_DIR$/funcao7.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,61 +51,61 @@
     &quot;configurable.GoLibrariesConfigurable.is.expanded&quot;: &quot;true&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/repos/algoritmos-em-golang-augustomadi&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Augusto/repos/algoritmos---funcoes-augustomadi&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.goide.configuration.GoLibrariesConfigurableProvider&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go Build.go build funcao6.go">
-    <configuration name="go build funcao2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build funcao7.go">
+    <configuration name="go build funcao10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/funcao2.go" />
+      <filePath value="$PROJECT_DIR$/funcao10.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build funcao3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build funcao11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/funcao3.go" />
+      <filePath value="$PROJECT_DIR$/funcao11.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build funcao4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build funcao12.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/funcao4.go" />
+      <filePath value="$PROJECT_DIR$/funcao12.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build funcao5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build funcao7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/funcao5.go" />
+      <filePath value="$PROJECT_DIR$/funcao7.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build funcao6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build funcao9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos---funcoes-augustomadi" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/funcao6.go" />
+      <filePath value="$PROJECT_DIR$/funcao9.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build funcao6.go" />
-        <item itemvalue="Go Build.go build funcao5.go" />
-        <item itemvalue="Go Build.go build funcao2.go" />
-        <item itemvalue="Go Build.go build funcao4.go" />
-        <item itemvalue="Go Build.go build funcao3.go" />
+        <item itemvalue="Go Build.go build funcao7.go" />
+        <item itemvalue="Go Build.go build funcao12.go" />
+        <item itemvalue="Go Build.go build funcao11.go" />
+        <item itemvalue="Go Build.go build funcao10.go" />
+        <item itemvalue="Go Build.go build funcao9.go" />
       </list>
     </recent_temporary>
   </component>
